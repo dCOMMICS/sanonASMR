@@ -1,5 +1,5 @@
 h1{
-    color: rgba(238, 130, 130, 0.5);
+    color: rgba(29, 27, 27, 0.5);
     font-size: 30px;
     font-family: sans-serif;
     text-transform: uppercase;
@@ -18,7 +18,7 @@ p{
 }
 
 body{
-    background-color: bisque;
+    background-color: rgb(238, 235, 231);
 }
 
 h3{
