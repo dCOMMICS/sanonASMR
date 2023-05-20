@@ -39,3 +39,8 @@ li{
     font-family: sans-serif;
     font-size: 22px;
 }
+
+nav{
+    text-decoration: none;
+    text-align: end;
+}
