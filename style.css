@@ -44,3 +44,13 @@ nav{
     text-decoration: none;
     text-align: end;
 }
+
+article header p{
+    font-style: italic;
+}
+
+.logo{
+    font-size: 19px;
+    text-align: start;
+    color: cadetblue;
+}
