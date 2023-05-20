@@ -10,3 +10,12 @@ let aGE = [4,5,6];
 aGE.push(7);
 
 console.log(aGE);
+
+
+// quiz 3//
+ 
+let AgeoftheDead = 10;
+
+const g = AgeoftheDead++;
+
+console.log(g);
