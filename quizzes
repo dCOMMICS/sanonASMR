@@ -34,3 +34,7 @@ console.log(018 - 015);
 // Answer 5
 
 console.log(typeof typeof 1);
+
+console.log("This is a string." instanceof String);
+
+// answer False
