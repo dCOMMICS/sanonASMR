@@ -13,3 +13,9 @@ array[6] = 9;
 console.log(array[5]);
 
 // answer undefined.
+
+const numbers = [33, 2, 8]; 
+numbers.sort();
+console.log(numbers[1])
+
+// Answer 33
