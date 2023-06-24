@@ -7,3 +7,9 @@ console.log(typeof NaN);
 console.log(1 +  "2" + "2");
 
 // Answe 122
+
+let array = [1, 2, 3];
+array[6] = 9;
+console.log(array[5]);
+
+// answer undefined.
