@@ -29,3 +29,8 @@ let Nwrj = '015'
 console.log(Age - Nwrj);
 
 console.log(018 - 015);
+ 
+
+// Answer 5
+
+console.log(typeof typeof 1);
