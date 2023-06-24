@@ -23,3 +23,9 @@ console.log(numbers[1])
 console.log(false == '0');
 
 // Answer is True
+let Age  = '018';
+
+let Nwrj = '015'
+console.log(Age - Nwrj);
+
+console.log(018 - 015);
