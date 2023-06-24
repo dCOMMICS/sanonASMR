@@ -3,3 +3,7 @@ console.log(('b' + 'a' + + 'a' + 'a').toLowerCase());
 // 
 
 console.log(typeof NaN);
+
+console.log(1 +  "2" + "2");
+
+// Answe 122
