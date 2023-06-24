@@ -40,3 +40,7 @@ console.log("This is a string." instanceof String);
 // answer False
 
 console.log(0.1 + 0.2 == 0.3);
+
+console.log(3 > 2 > 1);
+
+// False
