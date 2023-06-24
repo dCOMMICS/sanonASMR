@@ -38,3 +38,5 @@ console.log(typeof typeof 1);
 console.log("This is a string." instanceof String);
 
 // answer False
+
+console.log(0.1 + 0.2 == 0.3);
