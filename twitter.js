@@ -12,6 +12,7 @@ aGE.push(7);
 console.log(aGE);
 
 
+
 // quiz 3//
  
 let AgeoftheDead = 10;
