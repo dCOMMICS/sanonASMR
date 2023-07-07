@@ -14,3 +14,5 @@ canvasContext.fillRect(x,y, width,height);
 
 // mapp area coded
 let map
+
+//instalation
