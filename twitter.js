@@ -20,3 +20,6 @@ let AgeoftheDead = 10;
 const g = AgeoftheDead++;
 
 console.log(g);
+
+console.log (g* age)
+
